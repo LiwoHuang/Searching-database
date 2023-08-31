@@ -1,6 +1,6 @@
 # Searching-database-of-movies
 # About
-This is a Python program that uses the turtle module to create a simple game. The game involves a player-controlled car that must avoid colliding with other cars while collecting points by hitting a rabbit that appears on the screen. The game ends when the player loses all of their lives.
+T
 # Tech Stack
 Python, SQL, Git and Replite
 # Authorship
